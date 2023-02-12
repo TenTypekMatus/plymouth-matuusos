@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Default theme for MatuusOS
+Description=A theme that features a white MatuusOS logo
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/softwaves
+ScriptFile=/usr/share/plymouth/themes/softwaves/softwaves.script
